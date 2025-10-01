@@ -1,0 +1,26 @@
+name: generate-snake-game
+
+on:
+  schedule:
+    # dijalankan otomatis tiap 12 jam
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: adityaeks
+          outputs: dist/snake.svg
+
+      - name: Upload Snake to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
