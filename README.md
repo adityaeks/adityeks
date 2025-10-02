@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Aditya Eko!
-
+# 👋 Hi, I'm Aditya Eko!  
 Welcome to my GitHub profile 🚀  
 I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.  
+
+💡 If you are interested in working with me or need my services, feel free to reach out directly.  
 
 ---
 ## 🛠️ Tech Stack
