@@ -5,14 +5,18 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 
 ---
 ## 🛠️ Tech Stack
-![PHP](https://img.shields.io/badge/Code-PHP-777bb4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-f55247?logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![NodeJS](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![Figma](https://img.shields.io/badge/Design-Figma-pink?logo=figma)
+![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-f55247?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
 
 ---
 
