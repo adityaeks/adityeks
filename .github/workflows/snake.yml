@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # penting supaya bisa push ke repo
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -18,10 +21,22 @@ jobs:
           github_user_name: adityaeks
           outputs: dist/snake.svg
 
+      # === Opsi 1: Upload pakai peaceiris (utama) ===
       - name: Upload Snake to GitHub Pages
+        continue-on-error: true
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
           force_orphan: true
+
+      # === Opsi 2: Fallback pakai github-push-action ===
+      - name: Push Snake to Output Branch (Fallback)
+        if: failure()     # cuma jalan kalau langkah sebelumnya gagal
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+          directory: dist
