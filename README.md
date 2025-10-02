@@ -14,6 +14,7 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 ## 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f55247?logo=laravel&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
