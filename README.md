@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aditya Eko!  
-![Profile views](https://komarev.com/ghpvc/?username=adityaeks&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=adityaeks&label=Profile%20views&color=0e75b6&style=flat) </br>
 Welcome to my GitHub profile 🚀  
 I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.  
 
