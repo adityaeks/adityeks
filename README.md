@@ -1,13 +1,11 @@
 # 👋 Halo, saya Aditya Eko!
 
 Selamat datang di profil GitHub saya 🚀  
-Saya seorang pengembang yang suka belajar, eksperimen, dan membangun hal-hal baru.  
+Saya seorang Fullstack Dev and UI/UX Designer.  
 
 ---
 
 ## 📊 GitHub Stats
-![Adityaeks's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaeks&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaeks&layout=compact&theme=tokyonight)
 
 ---
@@ -18,8 +16,6 @@ Saya seorang pengembang yang suka belajar, eksperimen, dan membangun hal-hal bar
 ---
 
 ## 🌐 Connect with me
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Portfolio](https://your-website.com)  
-- [Twitter](https://twitter.com/your-handle)  
-
+- [LinkedIn](https://linkedin.com/in/mohammad-aditya-eko-saputra-78b1ba266)  
+- [Instagram](https://www.instagram.com/_adityaeks)
 ---
