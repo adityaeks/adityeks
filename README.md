@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Aditya Eko!  
+![Profile views](https://komarev.com/ghpvc/?username=adityaeks&label=Profile%20views&color=0e75b6&style=flat)
 Welcome to my GitHub profile 🚀  
 I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.  
 
@@ -34,7 +35,3 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 ![GitHub Snake](https://raw.githubusercontent.com/adityaeks/adityaeks/output/snake.svg)
 
 ---
-
-![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https://visitor-badge.laobi.icu/badge?page_id=adityaeks.adityaeks)
-
-
