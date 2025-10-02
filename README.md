@@ -4,7 +4,6 @@ Selamat datang di profil GitHub saya 🚀
 Saya seorang Fullstack Dev and UI/UX Designer.  
 
 ---
-
 ![GitHub Snake](https://raw.githubusercontent.com/adityaeks/adityaeks/output/snake.svg)
 
 ---
