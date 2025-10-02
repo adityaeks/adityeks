@@ -21,5 +21,8 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 ---
 
 ## 🌐 Connect with me
-- [LinkedIn](https://linkedin.com/in/mohammad-aditya-eko-saputra-78b1ba266)  
-- [Instagram](https://www.instagram.com/_adityaeks)  
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/mohammad-aditya-eko-saputra-78b1ba266)
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />](https://www.instagram.com/_adityaeks)
+
+<br clear="left"/>
+
