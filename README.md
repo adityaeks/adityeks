@@ -35,5 +35,6 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=adityaeks&label=Profile%20views&color=0e75b6&style=flat)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https://visitor-badge.laobi.icu/badge?page_id=adityaeks.adityaeks)
+
 
