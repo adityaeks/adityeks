@@ -12,10 +12,16 @@ Saya seorang **Fullstack Developer & UI/UX Designer**.
 ---
 
 ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
+![PHP](https://img.shields.io/badge/Code-PHP-777bb4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-f55247?logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![NodeJS](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Figma](https://img.shields.io/badge/Design-Figma-pink?logo=figma)
+
 
 ---
 
