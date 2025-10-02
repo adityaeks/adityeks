@@ -10,7 +10,6 @@ Saya seorang Fullstack Dev and UI/UX Designer.
 
 ---
 
-## 🐍 Snake Game Kontribusi
 ![GitHub Snake](https://raw.githubusercontent.com/adityaeks/adityaeks/output/snake.svg)
 
 ---
