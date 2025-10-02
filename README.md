@@ -34,3 +34,6 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 ![GitHub Snake](https://raw.githubusercontent.com/adityaeks/adityaeks/output/snake.svg)
 
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=adityaeks&label=Profile%20views&color=0e75b6&style=flat)
+
