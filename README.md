@@ -7,6 +7,7 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png#gh-dark-mode-only" />](https://www.instagram.com/_adityaeks)
 
 <br clear="left"/>
+
 ---
 ## 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)
