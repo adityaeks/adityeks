@@ -31,6 +31,7 @@ I'm a **Fullstack Developer, UI/UX Designer, and AI Enthusiast**.
 <br clear="left"/>
 
 ---
+
 ![GitHub Snake](https://raw.githubusercontent.com/adityaeks/adityaeks/output/snake.svg)
 
 ---
